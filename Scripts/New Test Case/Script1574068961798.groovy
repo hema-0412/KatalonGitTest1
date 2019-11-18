@@ -17,3 +17,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('facebook.com')
 
+WebUI.setText(findTestObject(null), '')
+
