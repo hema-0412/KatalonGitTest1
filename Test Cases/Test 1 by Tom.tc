@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Test 1 by Tom</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6538f26a-8ebb-4fb2-8ddd-8ed1bf5388ae</testCaseGuid>
+   <testCaseGuid>3a401a31-ead7-4695-8e3e-c63ca0997cf0</testCaseGuid>
 </TestCaseEntity>
